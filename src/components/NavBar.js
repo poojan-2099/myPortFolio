@@ -51,7 +51,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/poojan-patel-9a729a1a5/"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.linkedin.com/in/patelpoojan2099/"><img src={navIcon1} alt="" /></a>
                 <a href="https://github.com/poojan-2099"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/irrefutable_one/"><img src={navIcon3} alt="" /></a>
               </div>
